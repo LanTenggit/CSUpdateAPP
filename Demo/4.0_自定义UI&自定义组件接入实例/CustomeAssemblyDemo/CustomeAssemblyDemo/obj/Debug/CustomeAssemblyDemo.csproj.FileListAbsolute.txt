@@ -1,0 +1,8 @@
+C:\Users\YUAN.SUO\Downloads\编程开发\自动更新库\Demo\4.0_自定义UI&自定义组件接入实例\CustomeAssemblyDemo\CustomeAssemblyDemo\obj\Debug\CustomeAssemblyDemo.csprojAssemblyReference.cache
+C:\Users\YUAN.SUO\Downloads\编程开发\自动更新库\Demo\4.0_自定义UI&自定义组件接入实例\CustomeAssemblyDemo\CustomeAssemblyDemo\obj\Debug\CustomeAssemblyDemo.MainForm.resources
+C:\Users\YUAN.SUO\Downloads\编程开发\自动更新库\Demo\4.0_自定义UI&自定义组件接入实例\CustomeAssemblyDemo\CustomeAssemblyDemo\obj\Debug\CustomeAssemblyDemo.csproj.GenerateResource.cache
+C:\Users\YUAN.SUO\Downloads\编程开发\自动更新库\Demo\4.0_自定义UI&自定义组件接入实例\CustomeAssemblyDemo\CustomeAssemblyDemo\obj\Debug\CustomeAssemblyDemo.csproj.CoreCompileInputs.cache
+D:\桌面\自动更新库\Demo\4.0_自定义UI&自定义组件接入实例\CustomeAssemblyDemo\CustomeAssemblyDemo\obj\Debug\CustomeAssemblyDemo.csprojResolveAssemblyReference.cache
+D:\桌面\自动更新库\Demo\4.0_自定义UI&自定义组件接入实例\CustomeAssemblyDemo\CustomeAssemblyDemo\obj\Debug\CustomeAssemblyDemo.MainForm.resources
+D:\桌面\自动更新库\Demo\4.0_自定义UI&自定义组件接入实例\CustomeAssemblyDemo\CustomeAssemblyDemo\obj\Debug\CustomeAssemblyDemo.csproj.GenerateResource.Cache
+D:\桌面\自动更新库\Demo\4.0_自定义UI&自定义组件接入实例\CustomeAssemblyDemo\CustomeAssemblyDemo\obj\Debug\CustomeAssemblyDemo.csproj.CoreCompileInputs.cache
